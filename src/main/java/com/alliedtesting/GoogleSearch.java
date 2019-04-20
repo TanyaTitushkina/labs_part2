@@ -60,7 +60,6 @@ public class GoogleSearch
 //            driver.navigate().back();
 //            Thread.sleep(3000);
 //        }
-
         int sheetIndex = 0;
         int pageNumber = 1;
 
